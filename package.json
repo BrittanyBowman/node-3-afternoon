@@ -5,6 +5,10 @@
   "main": "server/index.js",
   "dependencies": {
     "axios": "^0.16.2",
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-icons": "^2.2.5",
